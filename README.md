@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @byronn-1
 - 👀 I’m interested in frontend tech.
 - 🌱 I’m currently learning TDD.
-- 💞️ I’m looking to collaborate on anything charity based.
 - 📫 How to reach me byronn.lee@gmail.com
 
 <!---
